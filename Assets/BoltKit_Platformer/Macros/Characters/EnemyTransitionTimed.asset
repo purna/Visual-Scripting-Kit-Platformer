@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: EnemyTransitionTimed
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Time
+      Elapsed","summary":null,"pan":{"x":136.2743,"y":41.78451},"zoom":1.0,"elements":[{"chainable":false,"member":{"name":"Range","parameterTypes":["System.Single","System.Single"],"targetType":"UnityEngine.Random","targetTypeName":"UnityEngine.Random","$version":"A"},"defaultValues":{"%min":{"$content":1.0,"$type":"System.Single"},"%max":{"$content":3.0,"$type":"System.Single"}},"position":{"x":-56.0,"y":-6.0},"guid":"0f1fb843-87ab-42fb-94d4-1e67ced45664","$version":"A","$type":"Bolt.InvokeMember","$id":"9"},{"defaultValues":{"seconds":{"$content":0.0,"$type":"System.Single"},"unscaledTime":{"$content":false,"$type":"System.Boolean"}},"position":{"x":97.0,"y":-6.0},"guid":"b95f7fef-44f1-49b4-b42f-ba43dde2cd68","$version":"A","$type":"Bolt.WaitForSecondsUnit","$id":"12"},{"defaultValues":{},"position":{"x":279.0,"y":-19.0},"guid":"448dc5d0-a8c3-4c05-9087-35b6362d7be0","$version":"A","$type":"Bolt.TriggerStateTransition","$id":"14"},{"coroutine":true,"defaultValues":{},"position":{"x":-271.0,"y":-6.0},"guid":"94073c31-4482-45fa-86c5-c0c0daa8ebb8","$version":"A","$type":"Bolt.OnEnterState","$id":"16"},{"sourceUnit":{"$ref":"12"},"sourceKey":"exit","destinationUnit":{"$ref":"14"},"destinationKey":"trigger","guid":"58f640b7-0bee-4d46-8da8-d8151a5924cd","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"enter","guid":"1e983438-3e7e-4400-aaa5-72ee966e0069","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"exit","destinationUnit":{"$ref":"12"},"destinationKey":"enter","guid":"18ff3bae-7f93-4b1d-a539-1eac8f0d5478","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"result","destinationUnit":{"$ref":"12"},"destinationKey":"seconds","guid":"40a94b8c-d212-4b96-9f3c-22c0669e5ee4","$type":"Bolt.ValueConnection"},{"position":{"xMin":-292.2,"yMin":-83.93331,"xMax":462.4666,"yMax":149.0667},"label":"We
+      use a random range between 1 and 3 to trigger the enemies next state (idle,
+      walk left or walk right).","comment":"We use a random range between 1 and 3
+      to trigger the enemies next state (idle, walk left or walk right).","color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"752e70b3-b42f-4e65-a3d9-084f6261459b","$version":"A","$type":"Ludiq.GraphGroup"}],"$version":"A"}}'
+    _objectReferences: []
