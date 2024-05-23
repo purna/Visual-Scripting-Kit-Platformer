@@ -118,7 +118,7 @@ TextureImporter:
         width: 150
         height: 212
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -139,7 +139,7 @@ TextureImporter:
         width: 102
         height: 285
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -157,10 +157,10 @@ TextureImporter:
         serializedVersion: 2
         x: 575
         y: 805
-        width: 102
+        width: 90
         height: 211
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,7 +181,7 @@ TextureImporter:
         width: 41
         height: 268
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,7 +202,7 @@ TextureImporter:
         width: 41
         height: 268
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -223,7 +223,7 @@ TextureImporter:
         width: 150
         height: 194
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -244,7 +244,7 @@ TextureImporter:
         width: 101
         height: 223
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -265,7 +265,7 @@ TextureImporter:
         width: 102
         height: 207
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -286,7 +286,7 @@ TextureImporter:
         width: 35
         height: 134
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -307,7 +307,7 @@ TextureImporter:
         width: 122
         height: 208
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -328,7 +328,7 @@ TextureImporter:
         width: 52
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,6 +336,363 @@ TextureImporter:
       bones: []
       spriteID: 2b90b51d068644157b309eb76dfb55e9
       internalID: 1320717191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 151
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68df1afbb0e7b4d0cb59f14f097797a2
+      internalID: -1777219831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 151
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac257361e44d4ff2a92b2b7b2fc0602
+      internalID: -495741654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 804
+        width: 123
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a71654e9cb343a8984f9a2059cac2c
+      internalID: -612443329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 795
+        width: 111
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b631003298e14ead865e5f9ceb2dd8d
+      internalID: -1480288070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_15
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 804
+        width: 96
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9b3544d33174bdea1361122ccd087c
+      internalID: -1043529216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 632
+        width: 120
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f1c041dec0b479f860444581ed1192
+      internalID: 402901000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 465
+        width: 124
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4543bba09b0e94f748c53380281bda22
+      internalID: -1831786181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 246
+        width: 115
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20bb430dce4c401d808203b130d579f
+      internalID: -1012529509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_19
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 220
+        width: 107
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b25dda078b004f148bac98d4b9ceb10
+      internalID: -1217777325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_20
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 441
+        width: 97
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60761d8d71b341c4b5427c561ca9203
+      internalID: 323751430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 830
+        width: 92
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ecef03cd9b844a6b8013ff36e25a66
+      internalID: -870390916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_22
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 52
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51108e9e2b87403e9e0e59f3187adce
+      internalID: -1592730616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_23
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 117
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea32aa8453ff4821bfdb0016228a3b2
+      internalID: 459854184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_24
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 107
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d578887ca89c4895bdcd22a76b3995a
+      internalID: -939934565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_25
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 40
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c2c495a644f40f2a95156aff479e6c
+      internalID: 1702116660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_26
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 43
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31c5672213714662a481ee4b52633b8
+      internalID: -474029937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliagePack_default_27
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 114
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbca68749b454bfd9e7445f8dc72fee
+      internalID: -693440332
       vertices: []
       indices: 
       edges: []
@@ -354,7 +711,24 @@ TextureImporter:
       foliagePack_default_0: 21487807
       foliagePack_default_1: 1526425362
       foliagePack_default_10: 1320717191
+      foliagePack_default_11: -1777219831
+      foliagePack_default_12: -495741654
+      foliagePack_default_13: -612443329
+      foliagePack_default_14: -1480288070
+      foliagePack_default_15: -1043529216
+      foliagePack_default_16: 402901000
+      foliagePack_default_17: -1831786181
+      foliagePack_default_18: -1012529509
+      foliagePack_default_19: -1217777325
       foliagePack_default_2: 2000170196
+      foliagePack_default_20: 323751430
+      foliagePack_default_21: -870390916
+      foliagePack_default_22: -1592730616
+      foliagePack_default_23: 459854184
+      foliagePack_default_24: -939934565
+      foliagePack_default_25: 1702116660
+      foliagePack_default_26: -474029937
+      foliagePack_default_27: -693440332
       foliagePack_default_3: 352591375
       foliagePack_default_4: 1369676177
       foliagePack_default_5: -552483942
