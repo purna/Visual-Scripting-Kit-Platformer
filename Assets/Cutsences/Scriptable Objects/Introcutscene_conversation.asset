@@ -13,24 +13,45 @@ MonoBehaviour:
   m_Name: Introcutscene_conversation
   m_EditorClassIdentifier: 
   charactersList:
-  - '<color=#B82F2C>Bob</color>: '
-  - '<color=#397551>Dobby</color>: '
+  - Bob
+  - Jim
+  characters:
+  - {fileID: 11400000, guid: 5f276ed3a68e74967803fbcfdd711a06, type: 2}
+  - {fileID: 11400000, guid: c13264c064ee3452a82671ee080586d5, type: 2}
   dialogueList:
-  - charactersListIndex: 1
+  - charactersListIndex: 0
     dialogue: I swear, this dungeon's endless.
+    dialogueSound: {fileID: 8300000, guid: 4b8dc171ea53e4e9a9888deeadb024a1, type: 3}
+    delayAfterDialogue: 1
   - charactersListIndex: 0
     dialogue: Nah, just bad map reading.
+    dialogueSound: {fileID: 8300000, guid: 022ae5246bf1e439f96161c5abb700d7, type: 3}
+    delayAfterDialogue: 1
   - charactersListIndex: 1
     dialogue: "I\u2019m <color=#B82F2C>sure</color> we passed that trap door."
+    dialogueSound: {fileID: 8300000, guid: f146d8e4239474b4bb00b469abc2c6b0, type: 3}
+    delayAfterDialogue: 1
   - charactersListIndex: 0
     dialogue: "Maybe it\u2019s hiding, like me after a fight."
+    dialogueSound: {fileID: 0}
+    delayAfterDialogue: 1
   - charactersListIndex: 1
     dialogue: So, you <color=#B82F2C>are</color>  afraid of goblins?
-  - charactersListIndex: 0
-    dialogue: Only when they borrow my sword.
+    dialogueSound: {fileID: 8300000, guid: 4b8dc171ea53e4e9a9888deeadb024a1, type: 3}
+    delayAfterDialogue: 1
   - charactersListIndex: 1
+    dialogue: Only when they borrow my sword.
+    dialogueSound: {fileID: 8300000, guid: f146d8e4239474b4bb00b469abc2c6b0, type: 3}
+    delayAfterDialogue: 1
+  - charactersListIndex: 0
     dialogue: "You\u2019re impossible."
+    dialogueSound: {fileID: 8300000, guid: 64c74a9e790cc44d48d9aac43659cb41, type: 3}
+    delayAfterDialogue: 1
   - charactersListIndex: 0
     dialogue: 'I prefer <color=#397551>impractical.</color> '
+    dialogueSound: {fileID: 8300000, guid: f146d8e4239474b4bb00b469abc2c6b0, type: 3}
+    delayAfterDialogue: 1
   - charactersListIndex: 1
     dialogue: Let's go!
+    dialogueSound: {fileID: 8300000, guid: a393c905e294c4612a803d7ee51ab59c, type: 3}
+    delayAfterDialogue: 1
